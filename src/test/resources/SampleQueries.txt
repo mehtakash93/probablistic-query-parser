@@ -1,0 +1,110 @@
+Query:venture capital in san francisco
+venture capital
+in
+san francisco
+Query:venture capital in san francisco and new york
+venture capital
+in
+san francisco
+and
+new york
+Query:president of the united states
+president
+of
+the united states
+Query:best soccer team
+best
+soccer team
+Query:san jose sharks
+san jose sharks
+Query:golden state warriors
+golden state warriors
+Query:top law firms in new jersey
+top
+law firms
+in
+new jersey
+Query:open source business model
+open source
+business model
+Query:private equity firms san francisco
+private equity
+firms
+san francisco
+Query:gas price by countries
+gas price
+by
+countries
+Query:new york times
+new york times
+Query:top masters degree programs
+top
+masters degree
+programs
+Query:machine learning conference
+machine learning
+conference
+Query:president barack obama
+president barack obama
+Query:elon musk net worth
+elon musk
+net worth
+Query:schools in north carolina
+schools
+in
+north carolina
+Query:software engineer in california
+software engineer
+in
+california
+Query:trending social media platform
+trending
+social media
+platform
+Query:deep learning and neural networks
+deep learning
+and
+neural networks
+Query:quotes by martin luther king
+quotes
+by
+martin luther king
+Query:donald trump on homeland security
+donald trump
+on
+homeland security
+Query:senior software engineer in bay area
+senior software engineer
+in
+bay area
+Query:real estate market
+real estate market
+Query:chief executive officer of morgan stanley
+chief executive officer
+of
+morgan stanley
+Query:one day international
+one day international
+Query:best varsity football team
+best
+varsity football team
+Query:nominations in lead actor and supporting actor categories
+nominations
+in
+lead actor
+and
+supporting actor
+categories
+Query:flash flood in national park
+flash flood
+in
+national park
+Query:stock market performance
+stock market
+performance
+Query:chief technology officer of google
+chief technology officer
+of
+google
+
+
