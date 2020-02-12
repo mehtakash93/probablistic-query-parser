@@ -20,7 +20,7 @@
     <artifactId>probabilistic-query-parser</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-    <solr.version>6.1.0</solr.version>
+    <solr.version>8.4.1</solr.version>
     </properties>
 
 <dependencies>
